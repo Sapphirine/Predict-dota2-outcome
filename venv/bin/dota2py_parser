@@ -1,0 +1,3 @@
+#!/Users/liqi/Downloads/dotaml-master/venv/bin/python
+from dota2py import parser
+parser.main()
